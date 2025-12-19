@@ -21,6 +21,10 @@
     "url": "https://github.com/bsivanantham/urbanbloom/issues"
   },
   "homepage": "https://github.com/bsivanantham/urbanbloom#readme",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
   "dependencies": {
     "@types/node": "^25.0.3",
     "@types/react": "^19.2.7",
